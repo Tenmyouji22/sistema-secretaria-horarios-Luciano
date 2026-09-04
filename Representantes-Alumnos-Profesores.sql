@@ -1,4 +1,4 @@
--- CREATE DATABASE EXISTS db;
+-- CREATE DATABASE db;
 
 -- Tabla representantes
 CREATE TABLE IF NOT EXISTS representantes(
